@@ -57,7 +57,7 @@ https://www.linkedin.com/feed/
 ## 🤝 Let's Connect
 I’m actively looking for **Junior Software Engineer / Junior Full-Stack Developer opportunities**.
 
-⭐ From [rukshiroshan]
+⭐ From rukshiroshan
 
 (https://github.com/rukshiroshan)
 
