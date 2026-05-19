@@ -40,9 +40,15 @@
 ---
 
 ## 📌 Featured Projects
+* Personal Portfolio Website
+  https://rukshiroshan.github.io/portfolio-/
+* Hotel Website using HTML and CSS
+* Restaurant Website using Bootsrap
 
 ### 🌐 Personal Portfolio Website
 https://rukshiroshan.github.io/portfolio-/
+### Linkedin 
+https://www.linkedin.com/feed/
 ---
 
 ## 📈 GitHub Stats
