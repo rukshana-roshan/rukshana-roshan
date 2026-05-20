@@ -1,43 +1,43 @@
 # Hi 👋 I'm Rukshana Roshan  
-### 💻 Junior Software Engineer | 🌐 Junior Full-Stack Developer
+###  Junior Software Engineer |  Junior Full-Stack Developer
 
-🚀 Passionate about building real-world web applications and continuously improving my development skills.
-
----
-
-## 👨‍💻 About Me
-- 🎓 Aspiring Software Engineer
-- 🌐 Focused on Full-Stack Web Development
-- 🌱 Currently learning **React, Node.js & Java**
-- 🧠 Improving problem-solving & coding skills daily
-- 🎯 Goal: Become a professional Full-Stack Developer
-- 📫 Reach me: **rukshanaroshan.it@gmail.com**
+Passionate about building real-world web applications and continuously improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+-  Aspiring Software Engineer
+-  Focused on Full-Stack Web Development
+-  Currently learning **React, Node.js & Java**
+-  Improving problem-solving & coding skills daily
+-  Goal: Become a professional Full-Stack Developer
+-  Reach me: **rukshanaroshan.it@gmail.com**
 
-### 🎨 Frontend
+---
+
+##  Tech Stack
+
+###  Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 ---
-## 📌 Featured Projects
+##  Featured Projects
 
 * Personal Portfolio Website
 
