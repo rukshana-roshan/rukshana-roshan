@@ -23,10 +23,24 @@ A modern, responsive personal portfolio website built to showcase my projects, s
 
 ---
 ## 🚀 How to Run Locally
-```bash
+
+##```bash
 git clone https://github.com/rukshana-engineer/developer-portfolio.git
 cd developer-portfolio
-open index.html `
+open index.html
+---
+---
+
+## 👤 Author
+
+Rukshana Roshan
+
+LinkedIn: https://linkedin.com/in/your-link
+GitHub: https://github.com/rukshana-engineer
+---
+
+
+
 
 
 
