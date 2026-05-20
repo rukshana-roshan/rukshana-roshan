@@ -1,64 +1,34 @@
-# Hi 👋 I'm Rukshana Roshan  
-###  Junior Software Engineer |  Junior Full-Stack Developer
+# 🌐 Developer Portfolio Website
 
-Passionate about building real-world web applications and continuously improving my development skills.
+A modern, responsive personal portfolio website built to showcase my projects, skills, and contact information.
 
----
-
-## About Me
--  Aspiring Software Engineer
--  Focused on Full-Stack Web Development
--  Currently learning **React, Node.js & Java**
--  Improving problem-solving & coding skills daily
--  Goal: Become a professional Full-Stack Developer
--  Reach me: **rukshanaroshan.it@gmail.com**
+## 🔗 Live Demo
+👉 https://rukshana-engineer.github.io/developer-portfolio/
 
 ---
 
-##  Tech Stack
+## ✨ Features
+- Fully responsive design (mobile + desktop)
+- Professional UI with clean layout
+- Projects showcase section
+- Contact & social links integration
+- Smooth scrolling and modern styling
 
-###  Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-###  Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
-</p>
-
-###  Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-###  Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 ---
-##  Featured Projects
 
-* Personal Portfolio Website
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
-  https://rukshana-engineer.github.io/developer-portfolio/
-  
-* Hotel Website using HTML and CSS
-  
-  https://your-username.github.io/crown-hotel-website/
-  
-
-
-### Personal Portfolio Website
-https://rukshana-engineer.github.io/developer-portfolio/
-### Linkedin 
-www.linkedin.com/in/rukshana-roshan
 ---
-## 🤝 Let's Connect
-I’m actively looking for **Junior Software Engineer / Junior Full-Stack Developer opportunities**.
+## 🚀 How to Run Locally
+```bash
+git clone https://github.com/rukshana-engineer/developer-portfolio.git
+cd developer-portfolio
+open index.html `
 
-⭐ From rukshiroshan
-https://github.com/rukshana-engineer
+
 
 
 
