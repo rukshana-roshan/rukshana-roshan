@@ -41,7 +41,7 @@
 
 * Personal Portfolio Website
 
-  https://rukshanaroshan.github.io/portfolio-website/
+  https://rukshana-engineer.github.io/developer-portfolio/
   
 * Hotel Website using HTML and CSS
   
