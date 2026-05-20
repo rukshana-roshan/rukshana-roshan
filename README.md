@@ -73,11 +73,11 @@ A modern responsive portfolio showcasing my work.
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="www.linkedin.com/in/rukshana-roshan">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="Email:rukshanaroshan.it@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
