@@ -11,7 +11,7 @@ I am an Aspiring **Junior Software Developer** skilled in JavaScript, React, HTM
 ---
 
 ## 🌐 Live Portfolio
-👉 https://rukshana-roshan.github.io/developer-portfolio/
+👉 https://rukshana-roshan.github.io/portfolio/
 
 ---
 
